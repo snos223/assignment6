@@ -5,6 +5,7 @@
 }
 .jumbotron p {
   font-family: 'Mathilde';
+  font-size: 48px;
 }
 .jumbotron {
     height: 500px;
