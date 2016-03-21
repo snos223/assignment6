@@ -15,8 +15,6 @@
 .jumbotron p {
   font-family: 'Mathilde';
   font-size: 48px;
-}
-.jumbotron {
-    height: 500px;
-    background-image: url('index_image.jpg');
+  margin-right: auto;
+  margin-left: auto;
 }
