@@ -14,13 +14,16 @@
   font-size: 60px;
 }
 .hours h3 {
-  font-family: "Mathilde";
+  font-family: 'Mathilde';
   font-size: 65px;
 }
 .hours p {
-  font-family: "Neou";
+  font-family: 'Neou';
   font-size: 30px;
 }
+.items {
+  font-family: 'Neou';
+}
 .prices {
-  
+  font-family: 'Mathilde';
 }
