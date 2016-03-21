@@ -1,5 +1,8 @@
 .btn-default {
   font-family:'Mathilde';
+  font-size: 50px;
+  margin-right: auto;
+  margin-left: auto;
 }
 .div nav {
   font-family: 'Mathilde';
@@ -8,7 +11,6 @@
   color: blue;
   font-family: 'Neou';
   font-size: 48px;
-  align: center;
 }
 .jumbotron p {
   font-family: 'Mathilde';
