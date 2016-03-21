@@ -3,3 +3,7 @@
   font-family: 'Shift', sans-serif;
   font-size: 48px;
 }
+.jumbotron {
+    height: 500px;
+    background-image: url('https://goo.gl/04j7Nn');
+}
