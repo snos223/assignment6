@@ -2,11 +2,7 @@
   font-family:'Mathilde';
   font-size: 50px;
 }
-.jumbotron {
-  img: index_image.jpg;
-}
 .jumbotron h1 {
-  color: purple;
   font-family: 'Neou';
   font-size: 50px;
 }
