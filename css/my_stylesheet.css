@@ -2,6 +2,8 @@
   color: blue;
   font-family: 'Shift', sans-serif;
   font-size: 48px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .jumbotron p {
   font-family: 'Mathilde';
