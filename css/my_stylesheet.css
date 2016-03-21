@@ -3,6 +3,9 @@
   font-family: 'Shift', sans-serif;
   font-size: 48px;
 }
+.jumbotron p {
+  font-family: 'Mathilde';
+}
 .jumbotron {
     height: 500px;
     background-image: url('file:///Volumes/PASSPORT/Web%20Design/project6_solo/assignment6/images/index_image.jpg');
