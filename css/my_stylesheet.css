@@ -6,7 +6,7 @@
   font-size: 50px;
 }
 .jumbotron {
-  background-image: image(.images/index.jpg);
+  background-image: image(./images/index.jpg);
 }
 .jumbotron h1 {
   font-family: 'Neou';
