@@ -28,6 +28,8 @@
 .hours h3 {
   font-family: 'Mathilde';
   font-size: 65px;
+  padding-top: 10px;
+  padding-bottom: 23px;
 }
 .hours p {
   font-family: 'Neou';
