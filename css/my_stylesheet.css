@@ -12,7 +12,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: black;
-  text-shadow: blue 0.3em 0.3em 0.3em;
+  text-shadow: yellow 0.3em 0.3em 0.3em;
 }
 .jumbotron h1 {
   font-family: 'Neou';
@@ -30,7 +30,6 @@
   font-size: 65px;
   padding-top: 10px;
   padding-bottom: 23px;
-  color: blue;
 }
 .hours p {
   font-family: 'Neou';
