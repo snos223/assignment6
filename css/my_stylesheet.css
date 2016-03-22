@@ -17,13 +17,16 @@
 .jumbotron h1 {
   font-family: 'Neou';
   font-size: 40px;
-  padding-top: 0px;
+  padding-top: 10px;
   padding-bottom: 0px;
-  padding-left: 10px
+  padding-left: 10px;
 }
 .jumbotron p {
   font-family: 'Mathilde';
   font-size: 60px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 10px;
 }
 .hours h3 {
   font-family: 'Mathilde';
